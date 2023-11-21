@@ -1,5 +1,5 @@
 If you don't have a domain and you just want to configure HTTPS for your local Django application, you can use a self-signed SSL certificate. Here are the steps:
-
+### pip install django-sslserver
 ### Step 1: Generate a Self-Signed SSL Certificate
 
 You can use OpenSSL to generate a self-signed SSL certificate. Open a terminal and run the following commands:
